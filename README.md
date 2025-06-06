@@ -5,7 +5,11 @@
 Welcome to **DataSpark**, a simple yet powerful **Exploratory Data Analysis (EDA)** web application built with **Streamlit**! 🔍 This tool allows you to upload a dataset and get a complete EDA report using **Pandas Profiling** and interactively explore your data with **D-Tale** – all in just a few clicks!
 
 ---
+🌐 Live Demo
+Check out the deployed app here:
+👉 https://dataspark.streamlit.app
 
+---
 ## 📌 Project Features
 
 - 📁 Upload CSV files for quick analysis
