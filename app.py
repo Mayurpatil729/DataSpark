@@ -93,3 +93,8 @@ if st.session_state.get("analysis_complete", False):
         unsafe_allow_html=True
     )
 
+
+# In Packages.txt
+# | 📦 Package Name   | 🔍 Description                                                                                                          |
+# | ----------------- | ----------------------------------------------------------------------------------------------------------------------- |
+# | `libgl1-mesa-glx` | This is a **Linux system library** that provides **OpenGL** rendering support through the **Mesa 3D Graphics Library**. |
